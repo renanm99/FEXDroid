@@ -24,7 +24,7 @@ done
  cd ~
   
   echo ""
-  wget -q --show-progress https://rootfs.fex-emu.gg/Ubuntu_23_04/2023-10-01/Ubuntu_23_04.sqsh
+  wget -q --show-progress https://rootfs.fex-emu.gg/Ubuntu_23_04/2023-12-03/Ubuntu_23_04.sqsh
   
   echo "Download complete"
   
